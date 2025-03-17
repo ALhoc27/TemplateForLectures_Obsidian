@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Atom",
+  "accentColor": "#657da4",
+  "enabledCssSnippets": [
+    "wide-lecture"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 15,
+  "nativeMenus": true
+}
