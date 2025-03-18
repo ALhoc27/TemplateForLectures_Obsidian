@@ -1,5 +1,4 @@
 🟣 🟢 ⚫️ 🟡 ✅ ❌❗️🔎
-▷ ▶︎ ◇ ● ★ ⦿
 <div class="cm-line1">
 &nbsp;<span class="cm-line" style="margin: 0; line-height: 1.2; display: inline-block; font-size: 16px;
     font-weight: bold;
@@ -32,8 +31,9 @@
 </div>
 
 <pre class="jcode">
-System.out.println("Hello, World!");
+System.out.println("Hello, World!"); // можно вставить в любую таблицу (просто копируйте код)
 </pre>
+Выделить строку можно - ▷ ▶︎ ◇ ● ★ ⦿   (*2 пробела*)
 
 |                                                                                                          |                                                                                                          |                                                                                                          |                                                                                                          |                                                                                                          |
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -49,3 +49,15 @@ System.out.println("Hello, World!");
 | <pre class="tablecode" style="background-color: #D4EFEC; !important;">-128...127` (**256**) / _2⁸_</pre> | <pre class="tablecode" style="background-color: #F1D6F5; !important;">-128...127` (**256**) / _2⁸_</pre> | <pre class="tablecode" style="background-color: #D5E7F7; !important;">-128...127` (**256**) / _2⁸_</pre> | <pre class="tablecode" style="background-color: #FDF3D7; !important;">-128...127` (**256**) / _2⁸_</pre> | <pre class="tablecode" style="background-color: #DFE6ED; !important;">-128...127` (**256**) / _2⁸_</pre> |
 | <span class="underlines" style="text-decoration-color: #75a9a5;">Подчёркнутый</span>                     | <span class="underlines" style="text-decoration-color: #ad80b7;">Подчёркнутый</span>                     | <span class="underlines" style="text-decoration-color: #6babe6;">Подчёркнутый</span>                     | <span class="underlines" style="text-decoration-color: #d1b852;">Подчёркнутый</span>                     | <span class="underlines" style="text-decoration-color: #9c9ea0;">Подчёркнутый</span>                     |
 | <span style="color: #75a9a5;">Цвет текста</span>                                                         | <span style="color: #ad80b7">Цвет текста</span>                                                          | <span style="color: #6babe6;">Цвет текста</span>                                                         | <span style="color: #d1b852">Цвет текста</span>                                                          | <span style="color: #9c9ea0">Цвет текста</span>                                                          |
+Удобен для средних объемов кода, **==можно==** вставить ==**в любую таблицу**== (*просто копируйте код*)
+<pre class="jcode">
+int day = 3;
+    
+switch (day) {
+▶︎   case 1 -> System.out.println("Понедельник");
+    case 2 -> System.out.println("Вторник");
+    case 3 -> System.out.println("Среда");
+    default -> System.out.println("Неизвестный день");
+}
+</pre>
+Выделить строку можно - ▷ ▶︎ ◇ ● ★ ⦿   (*2 пробела*)
